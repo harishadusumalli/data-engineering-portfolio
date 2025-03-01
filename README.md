@@ -25,5 +25,5 @@ This repository is a work in progress. I will be adding:
 - [ ] Create my first cheatsheet on SQL optimizations.
 
 ## 🔗 Connect With Me
-📌 **Gmail:** harishadusumalli@gmail.com 
+📌 **Gmail:**  harishadusumalli@gmail.com 
 
