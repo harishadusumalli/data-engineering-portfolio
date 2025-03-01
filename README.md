@@ -20,7 +20,7 @@ This repository is a work in progress. I will be adding:
 ✅ Create **cheatsheets for quick reference** during interviews.
 
 ## 📌 Next Steps
-- [ ] Add my first data engineering project.
+- [ ] Added my first data engineering project.
 - [ ] Start uploading Python and SQL practice problems.
 - [ ] Create my first cheatsheet on SQL optimizations.
 
