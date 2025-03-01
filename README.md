@@ -22,7 +22,7 @@ This repository is a work in progress. I will be adding:
 ## 📌 Next Steps
 - [ ] Added my first data engineering project.
 - [ ] Start uploading Python and SQL practice problems.
-- [ ] Create my first cheatsheet on SQL optimizations.
+- [ ] Create my first cheatsheets on SQL optimizations.
 
 ## 🔗 Connect With Me
 📌 **Gmail:**  harishadusumalli@gmail.com 
